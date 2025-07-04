@@ -1,4 +1,6 @@
 # Real-Time Face Detection with OpenCV DNN
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)
 
 This project implements a real-time face detection system using OpenCV's DNN module with a webcam stream.  
 It leverages a pre-trained Single Shot MultiBox Detector (SSD) with a ResNet-10 backbone, provided by the OpenCV team.   
